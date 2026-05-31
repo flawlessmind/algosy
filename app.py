@@ -4,7 +4,7 @@ import numpy as np
 from collections import defaultdict
 from math import sqrt
 
-ZIP_PATH = 'ml-latest-small.zip'
+ZIP_PATH = 'ml-latest.zip'
 RANDOM_SEED = 42
 TEST_SIZE = 0.2
 KFOLDS = 4
